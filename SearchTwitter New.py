@@ -2,7 +2,7 @@
 from temboo.Library.Twitter.Search import Tweets
 from temboo.core.session import TembooSession
 
-import MySQLdb
+#import MySQLdb
 import json
 
 from flask import Flask
